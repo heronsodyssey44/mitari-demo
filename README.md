@@ -22,7 +22,7 @@ link to the full run report.
 
 | File | Domain | Issue category |
 |------|--------|----------------|
-| `sql/train_enb.sql` | Data / SQL | Temporal soundness |
+| `sql/train.sql` | Data / SQL | Temporal soundness |
 | `ml/train.py` | ML / Python | Leakage + reproducibility |
 
 ## See what Mitari found
