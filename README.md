@@ -5,8 +5,7 @@ used to show what [Mitari](https://mitari.ai) catches.
 
 Mitari is verification infrastructure for data, analytics & ML teams. It
 catches the bugs that pass tests and human review: code that runs clean and
-answers wrong. Every file in this repo looks normal and would sail through a
-typical code review. Each open pull request shows what Mitari flagged, with a
+answers wrong. Each open pull request shows what Mitari flagged, with a
 link to the full run report.
 
 ## See what Mitari found
