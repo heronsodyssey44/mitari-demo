@@ -1,13 +1,4 @@
-Dropping the scoring example — here's the revised set:
-mitari-demo/
-├── README.md
-├── LICENSE
-├── sql/
-│   └── train_enb.sql        # temporal soundness
-└── ml/
-    └── train.py             # leakage + reproducibility
-Revised README:
-markdown# Mitari Demo
+# Mitari Demo
 
 Realistic data, analytics, and ML code with subtle, intentional issues —
 used to show what [Mitari](https://mitari.ai) catches.
