@@ -9,13 +9,6 @@ answers wrong. Every file in this repo looks normal and would sail through a
 typical code review. Each open pull request shows what Mitari flagged, with a
 link to the full run report.
 
-## What's here
-
-| File | Domain | Issue category |
-|------|--------|----------------|
-| `sql/train.sql` | Data / SQL | Temporal soundness |
-| `ml/train.py` | ML / Python | Leakage + reproducibility |
-
 ## See what Mitari found
 
 - **In the PR (review-time):** open the [pull requests](../../pulls) — each
